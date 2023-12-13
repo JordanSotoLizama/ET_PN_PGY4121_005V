@@ -21,5 +21,5 @@ Jordan Soto    19.566.499-4
 Git clone
 cd /delivery
 npm i
-Solucionar error T: Se deben agregar <T> en interfaz.ts según las imagenes adjuntas.
+Solucionar error T: Se deben agregar <T> en @angular/fire/compat/firestore/interfaces.ts según las imagenes adjuntas.
 ionic server.
