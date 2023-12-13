@@ -1,8 +1,9 @@
-ET_PN_PGY4121_005V
+**ET_PN_PGY4121_005V**
 
-Nombre de proyecto: GoDelivery
+**Nombre de proyecto:** GoDelivery
 
-Contexto: El desarrollo de nuestra aplicación de entregas y retiro
+**Contexto:** 
+El desarrollo de nuestra aplicación de entregas y retiro
 de productos cubre una amplia gama de necesidades,
 desde la comodidad del cliente hasta la eficiencia
 operativa de las empresas, la seguridad en las entregas
@@ -11,15 +12,16 @@ se dirige a optimizar y simplificar el proceso de entrega,
 lo que beneficia tanto a los clientes como a las
 organizaciones.
 
-Nombre de integrantes:  
+**Nombre de integrantes:**
 Jorge Fuentes  18.992.953-6			
 Victor Luna    17.860.270-5			
 Constanza Soto 18.331.064-K			
 Jordan Soto    19.566.499-4
 
-
+```
 Git clone
 cd /delivery
 npm i
 Solucionar error T: Se deben agregar <T> en @angular/fire/compat/firestore/interfaces.ts según las imagenes adjuntas.
 ionic server.
+```
