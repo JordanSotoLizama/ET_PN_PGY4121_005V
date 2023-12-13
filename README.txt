@@ -12,6 +12,7 @@ se dirige a optimizar y simplificar el proceso de entrega,
 lo que beneficia tanto a los clientes como a las
 organizaciones.
 
+La base de datos del proyecto se hizo con Firebase y Ionic 7.
 **Nombre de integrantes:**
 Jorge Fuentes  18.992.953-6			
 Victor Luna    17.860.270-5			
